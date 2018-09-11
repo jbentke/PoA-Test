@@ -1,6 +1,6 @@
 # PoA-Test
 
-Adapt the chain file to your local setup.
+Adapt the chain file and the addresses in the AuthorityProxy.sol to your local setup.
 
 0x00..005 -> AuthorityProxy.sol
 
